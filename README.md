@@ -1,4 +1,11 @@
 # 🐶 Dog vs. Cat Classification using CNN
+ ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white) |
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6+-ff6f00.svg?logo=tensorflow&logoColor=white) |
+ ![Keras](https://img.shields.io/badge/Keras-2.6+-D00000.svg?logo=keras&logoColor=white) |
+ ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243.svg?logo=numpy&logoColor=white) |
+ ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-013243.svg?logo=plotly&logoColor=white) |
+ ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8.svg?logo=opencv&logoColor=white) |
+
 
 ##  Overview
 This project uses a Convolutional Neural Network (CNN) to classify images of dogs and cats. The model is trained on the Kaggle dataset to distinguish between the two classes with high accuracy.
@@ -27,14 +34,4 @@ The CNN model is built using Keras with TensorFlow backend and consists of:
 - MaxPooling layers to reduce spatial dimensions  
 - Flatten layer to convert 2D matrices into 1D vectors  
 - Dense layers for classification  
-
-##  Tech Stack
-- Python 🐍  
-- TensorFlow
-- Keras 
-- NumPy  
-- Matplotlib  
-- OpenCV  
-- Google Colab (for training & reproducibility)  
-
 
